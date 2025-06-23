@@ -1,0 +1,18 @@
+C:\Users\malek\Desktop\clou Reader\bin\Debug\net9.0\clou Reader.exe
+C:\Users\malek\Desktop\clou Reader\bin\Debug\net9.0\clou Reader.deps.json
+C:\Users\malek\Desktop\clou Reader\bin\Debug\net9.0\clou Reader.runtimeconfig.json
+C:\Users\malek\Desktop\clou Reader\bin\Debug\net9.0\clou Reader.dll
+C:\Users\malek\Desktop\clou Reader\bin\Debug\net9.0\clou Reader.pdb
+C:\Users\malek\Desktop\clou Reader\bin\Debug\net9.0\ClouReaderAPI.dll
+C:\Users\malek\Desktop\clou Reader\obj\Debug\net9.0\clou Reader.csproj.AssemblyReference.cache
+C:\Users\malek\Desktop\clou Reader\obj\Debug\net9.0\clou Reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malek\Desktop\clou Reader\obj\Debug\net9.0\clou Reader.AssemblyInfoInputs.cache
+C:\Users\malek\Desktop\clou Reader\obj\Debug\net9.0\clou Reader.AssemblyInfo.cs
+C:\Users\malek\Desktop\clou Reader\obj\Debug\net9.0\clou Reader.csproj.CoreCompileInputs.cache
+C:\Users\malek\Desktop\clou Reader\obj\Debug\net9.0\clou Rea.CFF05BD3.Up2Date
+C:\Users\malek\Desktop\clou Reader\obj\Debug\net9.0\clou Reader.dll
+C:\Users\malek\Desktop\clou Reader\obj\Debug\net9.0\refint\clou Reader.dll
+C:\Users\malek\Desktop\clou Reader\obj\Debug\net9.0\clou Reader.pdb
+C:\Users\malek\Desktop\clou Reader\obj\Debug\net9.0\clou Reader.genruntimeconfig.cache
+C:\Users\malek\Desktop\clou Reader\obj\Debug\net9.0\ref\clou Reader.dll
+C:\Users\malek\Desktop\clou Reader\bin\Debug\net9.0\Newtonsoft.Json.dll

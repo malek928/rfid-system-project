@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gKrQcIXT8AU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\malek\\Desktop\\clou Reader\\clou Reader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\malek\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
